@@ -81,6 +81,22 @@ Chinese, Japanese, Persian (Iran), Hindi (India), Georgian,
 
 All translations stored in locales/*.json + two built-in (RU + EN).
 
+## CLI Flags & Usage
+
+You can run the program in **non-interactive mode** (direct calendar generation) by passing flags.  
+If **no flags** are provided → the interactive TUI menu will launch.
+
+```
+bash
+calendar-tui [flags]
+```
+#### Available flags:
+| Flag | Description | Default | Example|
+| :--: | :--- | :--- | :---: |
+| `--year N` | Calendar year (must be between 1900 and 2100) | Current year | `--year 2026` |
+| `--file` | Save output to file instead of printing to console | False | `--file` |
+| `--output FILE` | Custom output filename (automatically enables file mode) | calendar.txt | `--output mycal-2026.txt` |
+
 ## Contributing
 Pull requests are very welcome!
 Good first contributions:
