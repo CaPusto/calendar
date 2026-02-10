@@ -57,6 +57,9 @@ go install github.com/yourusername/calendar-tui@latest
 calendar-tui
 ```
 
+## Downloads
+Precompiled binaries for Windows are available in [Releases](https://github.com/CaPusto/calendar/releases).
+
 ## Usage
 
 1. Run the program → interactive menu appears
