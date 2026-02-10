@@ -1,6 +1,6 @@
 # Calendar TUI
 
-A beautiful, interactive **terminal calendar generator** written in Go.
+A simple, interactive **terminal calendar generator** written in Go.
 
 Generates a full-year calendar in the terminal with support for **60+ languages/locales**, customizable first day of the week (Monday/Sunday), colored weekends, and output to console or file.
 
@@ -96,6 +96,35 @@ calendar-tui [flags]
 | `--year N` | Calendar year (must be between 1900 and 2100) | Current year | `--year 2026` |
 | `--file` | Save output to file instead of printing to console | False | `--file` |
 | `--output FILE` | Custom output filename (automatically enables file mode) | calendar.txt | `--output mycal-2026.txt` |
+| `--monday` | Force Monday as the first day of the week (overrides country default) | Country default | `--monday` |
+| `--no-color` | Disable colors in console output (useful for redirection or plain text) | false | `--no-color` |
+| `--version` | Show program version and exit | - | `--version` |
+
+#### Examples
+```Generate current year in Russian, save to file, no colors
+calendar-tui --lang ru --file --no-color
+
+# 2026 year, Chinese locale, Monday first, custom filename
+calendar-tui --year 2026 --lang zh --monday --output 2026-china.txt
+
+# Force Monday start, English, output to console (with colors)
+calendar-tui --lang en --monday
+
+# Save default (system-detected) calendar to file
+calendar-tui --file
+
+# Show version
+calendar-tui --version
+# → Calendar TUI v0.1.0
+
+# Just launch interactive menu (no flags)
+calendar-tui
+```
+#### Notes
+* `--output` has higher priority than `--file` (if both are used — `--output wins`)
+* `--no-color` affects only console output (file is always plain text)
+* If the specified `--lang` is not found → falls back to USA (EN)
+* Invalid year or unknown error → program exits with error message
 
 ## Contributing
 Pull requests are very welcome!
@@ -107,5 +136,7 @@ Good first contributions:
 ### License
 MIT License
 
-### Made with :heart: and the Charm ecosystem
-Bubble Tea · Lip Gloss · Bubbles
+### The following libraries are used:
+* Bubble Tea `github.com/charmbracelet/bubbletea`
+* Lip Gloss `github.com/charmbracelet/lipgloss`
+* Bubbles `github.com/charmbracelet/bubbles`
