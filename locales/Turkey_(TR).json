@@ -1,0 +1,19 @@
+{
+  "Title": "=== TAKVİM AYARLARI ===",
+  "YearLabel": "Yıl:",
+  "WeekDayLabel": "Haftanın ilk günü:",
+  "OutputLabel": "Çıktı:",
+  "CountryLabel": "Ülke, Dil:",
+  "GoLabel": "Başlat:",
+  "HelpMsg": "[←/→] Değiştir | [Enter] Başlat | [q] Çıkış",
+  "SuccessMsg": "\nBAŞARILI! calendar.txt dosyasına kaydedildi\n",
+  "ErrorMsg": "\nHATA! calendar.txt dosyasına kaydedilemedi: %v\n",
+  "Months": ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"],
+  "HeaderSun": "Pa Pt Sa Ça Pe Cu Ct",
+  "HeaderMon": "Pt Sa Ça Pe Cu Ct Pa",
+  "SunVal": "Pazar",
+  "MonVal": "Pazartesi",
+  "ConsoleVal": "Konsol",
+  "FileVal": "Dosya",
+  "DefaultMon": true
+}

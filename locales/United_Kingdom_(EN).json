@@ -1,0 +1,19 @@
+{
+  "Title": "=== CALENDAR SETTINGS ===",
+  "YearLabel": "Calendar for:",
+  "WeekDayLabel": "First day of week:",
+  "OutputLabel": "Output to:",
+  "CountryLabel": "Country, Lang:",
+  "GoLabel": "Go:",
+  "HelpMsg": "[←/→] Change | [Enter] Go | [q] Quit",
+  "SuccessMsg": "\nSUCCESS! Saved to calendar.txt\n",
+  "ErrorMsg": "\nERROR! Failed to save to calendar.txt: %v\n",
+  "Months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+  "HeaderSun": "Su Mo Tu We Th Fr Sa",
+  "HeaderMon": "Mo Tu We Th Fr Sa Su",
+  "SunVal": "Sunday",
+  "MonVal": "Monday",
+  "ConsoleVal": "Console",
+  "FileVal": "File",
+  "DefaultMon": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "=== USTAWIENIA KALENDARZA ===",
+  "YearLabel": "Rok:",
+  "WeekDayLabel": "Początek tygodnia:",
+  "OutputLabel": "Wyjście:",
+  "CountryLabel": "Kraj, Język:",
+  "GoLabel": "Generuj:",
+  "HelpMsg": "[←/→] Zmień | [Enter] OK | [q] Wyjdź",
+  "SuccessMsg": "\nSUKCES! Zapisano w calendar.txt\n",
+  "ErrorMsg": "\nBŁĄD! Nie udało się zapisać w calendar.txt: %v\n",
+  "Months": ["Styczeń", "Luty", "Marzec", "Kwiecień", "Maj", "Czerwiec", "Lipiec", "Sierpień", "Wrzesień", "Październik", "Listopad", "Grudzień"],
+  "HeaderSun": "Ni Po Wt Śr Cz Pi So",
+  "HeaderMon": "Po Wt Śr Cz Pi So Ni",
+  "SunVal": "Niedziela",
+  "MonVal": "Poniedziałek",
+  "ConsoleVal": "Konsola",
+  "FileVal": "Plik",
+  "DefaultMon": true
+}

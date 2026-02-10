@@ -1,0 +1,19 @@
+{
+  "Title": "=== KALENDERINSTÄLLNINGAR ===",
+  "YearLabel": "Kalender för:",
+  "WeekDayLabel": "Veckan börjar med:",
+  "OutputLabel": "Utskrift till:",
+  "CountryLabel": "Land, Språk:",
+  "GoLabel": "Starta:",
+  "HelpMsg": "[←/→] Ändra | [Enter] Starta | [q] Avsluta",
+  "SuccessMsg": "\nLYCKADES! Sparat i calendar.txt\n",
+  "ErrorMsg": "\nFEL! Kunde inte spara i calendar.txt: %v\n",
+  "Months": ["Januari", "Februari", "Mars", "April", "Maj", "Juni", "Juli", "Augusti", "September", "Oktober", "November", "December"],
+  "HeaderSun": "Sö Må Ti On To Fr Lö",
+  "HeaderMon": "Må Ti On To Fr Lö Sö",
+  "SunVal": "Söndag",
+  "MonVal": "Måndag",
+  "ConsoleVal": "Konsol",
+  "FileVal": "Fil",
+  "DefaultMon": true
+}

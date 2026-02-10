@@ -1,0 +1,19 @@
+{
+  "Title": "=== CONFIGURAÇÕES ===",
+  "YearLabel": "Ano:",
+  "WeekDayLabel": "Início da semana:",
+  "OutputLabel": "Saída:",
+  "CountryLabel": "País, Idioma:",
+  "GoLabel": "Gerar:",
+  "HelpMsg": "[←/→] Mudar | [Enter] Gerar | [q] Sair",
+  "SuccessMsg": "\nSUCESSO! Salvo em calendar.txt\n",
+  "ErrorMsg": "\nERRO! Não foi possível salvar em calendar.txt: %v\n",
+  "Months": ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"],
+  "HeaderSun": "Do Se Te Qu Qu Se Sá",
+  "HeaderMon": "Se Te Qu Qu Se Sá Do",
+  "SunVal": "Domingo",
+  "MonVal": "Segunda",
+  "ConsoleVal": "Console",
+  "FileVal": "Arquivo",
+  "DefaultMon": false
+}

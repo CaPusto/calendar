@@ -1,0 +1,19 @@
+{
+  "Title": "=== TETAPAN KALENDAR ===",
+  "YearLabel": "Tahun:",
+  "WeekDayLabel": "Mula minggu:",
+  "OutputLabel": "Output:",
+  "CountryLabel": "Negara, Bahasa:",
+  "GoLabel": "Mula:",
+  "HelpMsg": "[←/→] Tukar | [Enter] OK | [q] Keluar",
+  "SuccessMsg": "\nBERJAYA! Disimpan dalam calendar.txt\n",
+  "ErrorMsg": "\nRALAT! Gagal menyimpan ke calendar.txt: %v\n",
+  "Months": ["Januari", "Februari", "Mac", "April", "Mei", "Jun", "Julai", "Ogos", "September", "Oktober", "November", "Disember"],
+  "HeaderSun": "Ah Is Se Ra Kh Ju Sa",
+  "HeaderMon": "Is Se Ra Kh Ju Sa Ah",
+  "SunVal": "Ahad",
+  "MonVal": "Isnin",
+  "ConsoleVal": "Konsol",
+  "FileVal": "Fail",
+  "DefaultMon": false
+}

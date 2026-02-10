@@ -1,0 +1,19 @@
+{
+  "Title": "=== SETĂRI CALENDAR ===",
+  "YearLabel": "An:",
+  "WeekDayLabel": "Prima zi a săptămânii:",
+  "OutputLabel": "Ieșire în:",
+  "CountryLabel": "Țară, Limbă:",
+  "GoLabel": "Pornește:",
+  "HelpMsg": "[←/→] Schimbă | [Enter] Pornește | [q] Ieșire",
+  "SuccessMsg": "\nSUCCES! Salvat în calendar.txt\n",
+  "ErrorMsg": "\nEROARE! Nu s-a putut salva în calendar.txt: %v\n",
+  "Months": ["Ianuarie", "Februarie", "Martie", "Aprilie", "Mai", "Iunie", "Iulie", "August", "Septembrie", "Octombrie", "Noiembrie", "Decembrie"],
+  "HeaderSun": "Du Lu Ma Mi Jo Vi Sâ",
+  "HeaderMon": "Lu Ma Mi Jo Vi Sâ Du",
+  "SunVal": "Duminică",
+  "MonVal": "Luni",
+  "ConsoleVal": "Consolă",
+  "FileVal": "Fișier",
+  "DefaultMon": true
+}

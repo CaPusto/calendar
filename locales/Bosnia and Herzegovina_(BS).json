@@ -1,0 +1,19 @@
+{
+  "Title": "=== POSTAVKE KALENDARA ===",
+  "YearLabel": "Kalendar za:",
+  "WeekDayLabel": "Prvi dan sedmice:",
+  "OutputLabel": "Izlaz u:",
+  "CountryLabel": "Država, Jezik:",
+  "GoLabel": "Pokreni:",
+  "HelpMsg": "[←/→] Promijeni | [Enter] Pokreni | [q] Izlaz",
+  "SuccessMsg": "\nUSPJEH! Sačuvano u calendar.txt\n",
+  "ErrorMsg": "\nGREŠKA! Neuspješno čuvanje u calendar.txt: %v\n",
+  "Months": ["Januar", "Februar", "Mart", "April", "Maj", "Juni", "Juli", "August", "Septembar", "Oktobar", "Novembar", "Decembar"],
+  "HeaderSun": "Ne Po Ut Sr Če Pe Su",
+  "HeaderMon": "Po Ut Sr Če Pe Su Ne",
+  "SunVal": "Nedjelja",
+  "MonVal": "Ponedjeljak",
+  "ConsoleVal": "Konzola",
+  "FileVal": "Datoteka",
+  "DefaultMon": true
+}

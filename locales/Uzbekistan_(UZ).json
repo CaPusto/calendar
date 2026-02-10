@@ -1,0 +1,19 @@
+{
+  "Title": "=== TAQVIM SOZLAMALARI ===",
+  "YearLabel": "Yil:",
+  "WeekDayLabel": "Hafta boshi:",
+  "OutputLabel": "Chiqish:",
+  "CountryLabel": "Mamlakat, Til:",
+  "GoLabel": "Boshlash:",
+  "HelpMsg": "[←/→] O'zgartirish | [Enter] OK | [q] Chiqish",
+  "SuccessMsg": "\nMUVAFFAQIYAT! calendar.txt fayliga saqlandi\n",
+  "ErrorMsg": "\nXATO! calendar.txt fayliga saqlanmadi: %v\n",
+  "Months": ["Yanvar", "Fevral", "Mart", "Aprel", "May", "Iyun", "Iyul", "Avgust", "Sentyabr", "Oktyabr", "Noyabr", "Dekabr"],
+  "HeaderSun": "Ya Du Se Ch Pa Ju Sh",
+  "HeaderMon": "Du Se Ch Pa Ju Sh Ya",
+  "SunVal": "Yakshanba",
+  "MonVal": "Dushanba",
+  "ConsoleVal": "Konsol",
+  "FileVal": "Fayl",
+  "DefaultMon": true
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "=== KALENDER-EINSTELLUNGEN ===",
+  "YearLabel": "Kalender für:",
+  "WeekDayLabel": "Wochenbeginn:",
+  "OutputLabel": "Ausgabe an:",
+  "CountryLabel": "Land, Sprache:",
+  "GoLabel": "Start:",
+  "HelpMsg": "[←/→] Ändern | [Enter] Start | [q] Beenden",
+  "SuccessMsg": "\nERFOLG! In calendar.txt gespeichert\n",
+  "ErrorMsg": "\nFEHLER! Konnte nicht in calendar.txt speichern: %v\n",
+  "Months": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+  "HeaderSun": "So Mo Di Mi Do Fr Sa",
+  "HeaderMon": "Mo Di Mi Do Fr Sa So",
+  "SunVal": "Sonntag",
+  "MonVal": "Montag",
+  "ConsoleVal": "Konsole",
+  "FileVal": "Datei",
+  "DefaultMon": true
+}

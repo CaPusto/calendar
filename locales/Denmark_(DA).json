@@ -1,0 +1,19 @@
+{
+  "Title": "=== KALENDERINDSTILLINGER ===",
+  "YearLabel": "Kalender for:",
+  "WeekDayLabel": "Første dag i ugen:",
+  "OutputLabel": "Output til:",
+  "CountryLabel": "Land, Sprog:",
+  "GoLabel": "Start:",
+  "HelpMsg": "[←/→] Ændr | [Enter] Start | [q] Afslut",
+  "SuccessMsg": "\nSUCCES! Gemt i calendar.txt\n",
+  "ErrorMsg": "\nFEJL! Kunne ikke gemme i calendar.txt: %v\n",
+  "Months": ["Januar", "Februar", "Marts", "April", "Maj", "Juni", "Juli", "August", "September", "Oktober", "November", "December"],
+  "HeaderSun": "Sø Ma Ti On To Fr Lø",
+  "HeaderMon": "Ma Ti On To Fr Lø Sø",
+  "SunVal": "Søndag",
+  "MonVal": "Mandag",
+  "ConsoleVal": "Konsol",
+  "FileVal": "Fil",
+  "DefaultMon": true
+}

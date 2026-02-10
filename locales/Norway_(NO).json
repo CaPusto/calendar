@@ -1,0 +1,19 @@
+{
+  "Title": "=== KALENDERINNSTILLINGER ===",
+  "YearLabel": "Kalender for:",
+  "WeekDayLabel": "Første dag i uken:",
+  "OutputLabel": "Utdata til:",
+  "CountryLabel": "Land, Språk:",
+  "GoLabel": "Start:",
+  "HelpMsg": "[←/→] Endre | [Enter] Start | [q] Avslutt",
+  "SuccessMsg": "\nVELLYKKET! Lagret i calendar.txt\n",
+  "ErrorMsg": "\nFEIL! Kunne ikke lagre i calendar.txt: %v\n",
+  "Months": ["Januar", "Februar", "Mars", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Desember"],
+  "HeaderSun": "Sø Ma Ti On To Fr Lø",
+  "HeaderMon": "Ma Ti On To Fr Lø Sø",
+  "SunVal": "Søndag",
+  "MonVal": "Mandag",
+  "ConsoleVal": "Konsoll",
+  "FileVal": "Fil",
+  "DefaultMon": true
+}

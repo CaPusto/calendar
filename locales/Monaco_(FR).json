@@ -1,0 +1,19 @@
+{
+  "Title": "=== PARAMÈTRES DU CALENDRIER ===",
+  "YearLabel": "Calendrier pour :",
+  "WeekDayLabel": "Premier jour de la semaine :",
+  "OutputLabel": "Sortie vers :",
+  "CountryLabel": "Pays, Langue :",
+  "GoLabel": "Lancer :",
+  "HelpMsg": "[←/→] Changer | [Enter] Lancer | [q] Quitter",
+  "SuccessMsg": "\nSUCCÈS ! Enregistré dans calendar.txt\n",
+  "ErrorMsg": "\nERREUR ! Échec de l'enregistrement dans calendar.txt : %v\n",
+  "Months": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+  "HeaderSun": "Di Lu Ma Me Je Ve Sa",
+  "HeaderMon": "Lu Ma Me Je Ve Sa Di",
+  "SunVal": "Dimanche",
+  "MonVal": "Lundi",
+  "ConsoleVal": "Console",
+  "FileVal": "Fichier",
+  "DefaultMon": true
+}

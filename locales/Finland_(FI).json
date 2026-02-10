@@ -1,0 +1,19 @@
+{
+  "Title": "=== KALENTERIN ASETUKSET ===",
+  "YearLabel": "Vuosi:",
+  "WeekDayLabel": "Viikon eka päivä:",
+  "OutputLabel": "Tuloste:",
+  "CountryLabel": "Maa, kieli:",
+  "GoLabel": "Aloita:",
+  "HelpMsg": "[←/→] Muuta | [Enter] Aloita | [q] Poistu",
+  "SuccessMsg": "\nVALMIS! Tallennettu calendar.txt tiedostoon\n",
+  "ErrorMsg": "\nVIRHE! Tiedoston calendar.txt tallennus epäonnistui: %v\n",
+  "Months": ["Tammikuu", "Helmikuu", "Maaliskuu", "Huhtikuu", "Toukokuu", "Kesäkuu", "Heinäkuu", "Elokuu", "Syyskuu", "Lokakuu", "Marraskuu", "Joulukuu"],
+  "HeaderSun": "Su Ma Ti Ke To Pe La",
+  "HeaderMon": "Ma Ti Ke To Pe La Su",
+  "SunVal": "Sunnuntai",
+  "MonVal": "Maanantai",
+  "ConsoleVal": "Konsoli",
+  "FileVal": "Tiedosto",
+  "DefaultMon": true
+}

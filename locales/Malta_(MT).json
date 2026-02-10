@@ -1,0 +1,19 @@
+{
+  "Title": "=== SETTINGS TAL-KALENDARJU ===",
+  "YearLabel": "Kalendar għal:",
+  "WeekDayLabel": "L-ewwel jum tal-ġimgħa:",
+  "OutputLabel": "Ħruġ lejn:",
+  "CountryLabel": "Pajjiż, Lingwa:",
+  "GoLabel": "Ibda:",
+  "HelpMsg": "[←/→] Biddel | [Enter] Ibda | [q] Oħroġ",
+  "SuccessMsg": "\nSUCCESS! Salvat fil-calendar.txt\n",
+  "ErrorMsg": "\nŻBALL! Ma setax jiġi salvat fil-calendar.txt: %v\n",
+  "Months": ["Jannar", "Frar", "Marzu", "April", "Mejju", "Ġunju", "Lulju", "Awwissu", "Settembru", "Ottubru", "Novembru", "Diċembru"],
+  "HeaderSun": "Ħd Tn Tl Lr Ħm Ġm Sb",
+  "HeaderMon": "Tn Tl Lr Ħm Ġm Sb Ħd",
+  "SunVal": "Ħadd",
+  "MonVal": "It-Tnejn",
+  "ConsoleVal": "Konsol",
+  "FileVal": "Fajl",
+  "DefaultMon": false
+}

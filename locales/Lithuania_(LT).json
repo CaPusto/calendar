@@ -1,0 +1,19 @@
+{
+  "Title": "=== KALENDORIAUS NUSTATYMAI ===",
+  "YearLabel": "Metai:",
+  "WeekDayLabel": "Savaitės pirmoji diena:",
+  "OutputLabel": "Išvesti į:",
+  "CountryLabel": "Šalis, kalba:",
+  "GoLabel": "Pradėti:",
+  "HelpMsg": "[←/→] Keisti | [Enter] Pradėti | [q] Išeiti",
+  "SuccessMsg": "\nSĖKMINGAI! Išsaugota faile calendar.txt\n",
+  "ErrorMsg": "\nKLAIDA! Nepavyko išsaugoti faile calendar.txt: %v\n",
+  "Months": ["Sausis", "Vasaris", "Kovas", "Balandis", "Gegužė", "Birželis", "Liepa", "Rugpjūtis", "Rugsėjis", "Spalis", "Lapkritis", "Gruodis"],
+  "HeaderSun": "Sk Pr An Tr Kt Pn Št",
+  "HeaderMon": "Pr An Tr Kt Pn Št Sk",
+  "SunVal": "Sekmadienis",
+  "MonVal": "Pirmadienis",
+  "ConsoleVal": "Konsolė",
+  "FileVal": "Failas",
+  "DefaultMon": true
+}

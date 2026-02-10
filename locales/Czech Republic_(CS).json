@@ -1,0 +1,19 @@
+{
+  "Title": "=== NASTAVENÍ KALENDÁŘE ===",
+  "YearLabel": "Kalendář pro:",
+  "WeekDayLabel": "První den týdne:",
+  "OutputLabel": "Výstup do:",
+  "CountryLabel": "Země, Jazyk:",
+  "GoLabel": "Spustit:",
+  "HelpMsg": "[←/→] Změnit | [Enter] Spustit | [q] Konec",
+  "SuccessMsg": "\nÚSPĚCH! Uloženo do calendar.txt\n",
+  "ErrorMsg": "\nCHYBA! Nepodařilo se uložit do calendar.txt: %v\n",
+  "Months": ["Leden", "Únor", "Březen", "Duben", "Květen", "Červen", "Červenec", "Srpen", "Září", "Říjen", "Listopad", "Prosinec"],
+  "HeaderSun": "Ne Po Út St Čt Pá So",
+  "HeaderMon": "Po Út St Čt Pá So Ne",
+  "SunVal": "Neděle",
+  "MonVal": "Pondělí",
+  "ConsoleVal": "Konzole",
+  "FileVal": "Soubor",
+  "DefaultMon": true
+}

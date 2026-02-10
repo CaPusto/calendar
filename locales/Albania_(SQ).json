@@ -1,0 +1,19 @@
+{
+  "Title": "=== CILËSIMET E KALENDARIT ===",
+  "YearLabel": "Viti:",
+  "WeekDayLabel": "Dita e parë e javës:",
+  "OutputLabel": "Dalja në:",
+  "CountryLabel": "Vend, Gjuhë:",
+  "GoLabel": "Nis:",
+  "HelpMsg": "[←/→] Ndrysho | [Enter] Nis | [q] Dil",
+  "SuccessMsg": "\nSUKSES! Ruajtur në calendar.txt\n",
+  "ErrorMsg": "\nGABIM! Nuk u ruajt në calendar.txt: %v\n",
+  "Months": ["Janar", "Shkurt", "Mars", "Prill", "Maj", "Qershor", "Korrik", "Gusht", "Shtator", "Tetor", "Nëntor", "Dhjetor"],
+  "HeaderSun": "Di Hë Ma Më En Pr Sh",
+  "HeaderMon": "Hë Ma Më En Pr Sh Di",
+  "SunVal": "E diel",
+  "MonVal": "E hënë",
+  "ConsoleVal": "Konsolë",
+  "FileVal": "Skedar",
+  "DefaultMon": true
+}

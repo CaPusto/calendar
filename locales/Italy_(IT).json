@@ -1,0 +1,19 @@
+{
+  "Title": "=== IMPOSTAZIONI CALENDARIO ===",
+  "YearLabel": "Anno:",
+  "WeekDayLabel": "Inizio settimana:",
+  "OutputLabel": "Output:",
+  "CountryLabel": "Paese, Lingua:",
+  "GoLabel": "Genera:",
+  "HelpMsg": "[←/→] Cambia | [Enter] OK | [q] Esci",
+  "SuccessMsg": "\nSUCCESSO! Salvato in calendar.txt\n",
+  "ErrorMsg": "\nERRORE! Impossibile salvare in calendar.txt: %v\n",
+  "Months": ["Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"],
+  "HeaderSun": "Do Lu Ma Me Gi Ve Sa",
+  "HeaderMon": "Lu Ma Me Gi Ve Sa Do",
+  "SunVal": "Domenica",
+  "MonVal": "Lunedì",
+  "ConsoleVal": "Console",
+  "FileVal": "File",
+  "DefaultMon": true
+}

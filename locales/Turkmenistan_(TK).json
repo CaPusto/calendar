@@ -1,0 +1,19 @@
+{
+  "Title": "=== TAKWIM SAZLAMALARY ===",
+  "YearLabel": "Ýyl:",
+  "WeekDayLabel": "Hepdäniň ilkinji güni:",
+  "OutputLabel": "Çykyş:",
+  "CountryLabel": "Ýurt, Dil:",
+  "GoLabel": "Başla:",
+  "HelpMsg": "[←/→] Üýtget | [Enter] Başla | [q] Çyk",
+  "SuccessMsg": "\nÜSTÜNLIK! calendar.txt faýlyna ýazdy\n",
+  "ErrorMsg": "\nÝALŇYŞLYK! calendar.txt faýlyna ýazyp bolmady: %v\n",
+  "Months": ["Ýanwar", "Fewral", "Mart", "Aprel", "Maý", "Iýun", "Iýul", "Awgust", "Sentýabr", "Oktýabr", "Noýabr", "Dekabr"],
+  "HeaderSun": "Ýe Du Si Ça Pe An Şe",
+  "HeaderMon": "Du Si Ça Pe An Şe Ýe",
+  "SunVal": "Ýekşenbe",
+  "MonVal": "Duşenbe",
+  "ConsoleVal": "Konsol",
+  "FileVal": "Faýl",
+  "DefaultMon": true
+}

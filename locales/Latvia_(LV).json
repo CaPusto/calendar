@@ -1,0 +1,19 @@
+{
+  "Title": "=== KALENDĀRA IESTATĪJUMI ===",
+  "YearLabel": "Gads:",
+  "WeekDayLabel": "Nedēļas pirmā diena:",
+  "OutputLabel": "Izvade uz:",
+  "CountryLabel": "Valsts, valoda:",
+  "GoLabel": "Sākt:",
+  "HelpMsg": "[←/→] Mainīt | [Enter] Sākt | [q] Iziet",
+  "SuccessMsg": "\nVEIKSMĪGI! Saglabāts failā calendar.txt\n",
+  "ErrorMsg": "\nKĻŪDA! Neizdevās saglabāt failā calendar.txt: %v\n",
+  "Months": ["Janvāris", "Februāris", "Marts", "Aprīlis", "Maijs", "Jūnijs", "Jūlijs", "Augusts", "Septembris", "Oktobris", "Novembris", "Decembris"],
+  "HeaderSun": "Sv Pr Ot Tr Ce Pe Se",
+  "HeaderMon": "Pr Ot Tr Ce Pe Se Sv",
+  "SunVal": "Svētdiena",
+  "MonVal": "Pirmdiena",
+  "ConsoleVal": "Konsols",
+  "FileVal": "Fails",
+  "DefaultMon": true
+}

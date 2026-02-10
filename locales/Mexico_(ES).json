@@ -1,0 +1,19 @@
+{
+  "Title": "=== AJUSTES DEL CALENDARIO ===",
+  "YearLabel": "Año:",
+  "WeekDayLabel": "Inicio de semana:",
+  "OutputLabel": "Salida:",
+  "CountryLabel": "País, Idioma:",
+  "GoLabel": "Generar:",
+  "HelpMsg": "[←/→] Cambiar | [Enter] OK | [q] Salir",
+  "SuccessMsg": "\n¡ÉXITO! Guardado en calendar.txt\n",
+  "ErrorMsg": "\n¡ERROR! No se pudo guardar en calendar.txt: %v\n",
+  "Months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+  "HeaderSun": "Do Lu Ma Mi Ju Vi Sá",
+  "HeaderMon": "Lu Ma Mi Ju Vi Sá Do",
+  "SunVal": "Domingo",
+  "MonVal": "Lunes",
+  "ConsoleVal": "Consola",
+  "FileVal": "Archivo",
+  "DefaultMon": true
+}

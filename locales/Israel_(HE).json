@@ -1,0 +1,32 @@
+{
+  "Title": "=== הגדרות לוח שנה ===",
+  "YearLabel": "שנה:",
+  "WeekDayLabel": "יום ראשון בשבוע:",
+  "OutputLabel": "פלט אל:",
+  "CountryLabel": "מדינה, שפה:",
+  "GoLabel": "הפעל:",
+  "HelpMsg": "[←/→] שנה | [Enter] הפעל | [q] יציאה",
+  "SuccessMsg": "\nהצלחה! נשמר בקובץ calendar.txt\n",
+  "ErrorMsg": "\nשגיאה! לא ניתן לשמור בקובץ calendar.txt: %v\n",
+  "Months": [
+    "ינואר",
+    "פברואר",
+    "מרץ",
+    "אפריל",
+    "מאי",
+    "יוני",
+    "יולי",
+    "אוגוסט",
+    "ספטמבר",
+    "אוקטובר",
+    "נובמבר",
+    "דצמבר"
+  ],
+  "HeaderSun": "א׳ ב׳ ג׳ ד׳ ה׳ ו׳ ש׳",
+  "HeaderMon": "ב׳ ג׳ ד׳ ה׳ ו׳ ש׳ א׳",
+  "SunVal": "יום ראשון",
+  "MonVal": "יום שני",
+  "ConsoleVal": "מסוף",
+  "FileVal": "קובץ",
+  "DefaultMon": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "=== CONFIGURACIÓ DEL CALENDARI ===",
+  "YearLabel": "Calendari per a:",
+  "WeekDayLabel": "Primer dia de la setmana:",
+  "OutputLabel": "Sortida a:",
+  "CountryLabel": "País, Idioma:",
+  "GoLabel": "Iniciar:",
+  "HelpMsg": "[←/→] Canviar | [Enter] Iniciar | [q] Sortir",
+  "SuccessMsg": "\nÈXIT! Desat a calendar.txt\n",
+  "ErrorMsg": "\nERROR! No s'ha pogut desar a calendar.txt: %v\n",
+  "Months": ["Gener", "Febrer", "Març", "Abril", "Maig", "Juny", "Juliol", "Agost", "Setembre", "Octubre", "Novembre", "Desembre"],
+  "HeaderSun": "Dg Dl Dm Dc Dj Dv Ds",
+  "HeaderMon": "Dl Dm Dc Dj Dv Ds Dg",
+  "SunVal": "Diumenge",
+  "MonVal": "Dilluns",
+  "ConsoleVal": "Consola",
+  "FileVal": "Fitxer",
+  "DefaultMon": true
+}

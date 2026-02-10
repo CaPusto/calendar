@@ -1,0 +1,19 @@
+{
+  "Title": "=== NAPTÁR BEÁLLÍTÁSOK ===",
+  "YearLabel": "Naptár éve:",
+  "WeekDayLabel": "A hét első napja:",
+  "OutputLabel": "Kimenet:",
+  "CountryLabel": "Ország, Nyelv:",
+  "GoLabel": "Indítás:",
+  "HelpMsg": "[←/→] Változtat | [Enter] Indít | [q] Kilép",
+  "SuccessMsg": "\nSIKER! Elmentve calendar.txt-be\n",
+  "ErrorMsg": "\nHIBA! Nem sikerült menteni calendar.txt-be: %v\n",
+  "Months": ["Január", "Február", "Március", "Április", "Május", "Június", "Július", "Augusztus", "Szeptember", "Október", "November", "December"],
+  "HeaderSun": "Va Hé Ke Sz Cs Pé Sz",
+  "HeaderMon": "Hé Ke Sz Cs Pé Sz Va",
+  "SunVal": "Vasárnap",
+  "MonVal": "Hétfő",
+  "ConsoleVal": "Konzol",
+  "FileVal": "Fájl",
+  "DefaultMon": true
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "=== KALENDER INSTELLINGEN ===",
+  "YearLabel": "Kalender voor:",
+  "WeekDayLabel": "Eerste dag van de week:",
+  "OutputLabel": "Uitvoer naar:",
+  "CountryLabel": "Land, Taal:",
+  "GoLabel": "Start:",
+  "HelpMsg": "[←/→] Wijzigen | [Enter] Start | [q] Afsluiten",
+  "SuccessMsg": "\nSUCCES! Opgeslagen in calendar.txt\n",
+  "ErrorMsg": "\nFOUT! Kon niet opslaan in calendar.txt: %v\n",
+  "Months": ["Januari", "Februari", "Maart", "April", "Mei", "Juni", "Juli", "Augustus", "September", "Oktober", "November", "December"],
+  "HeaderSun": "Zo Ma Di Wo Do Vr Za",
+  "HeaderMon": "Ma Di Wo Do Vr Za Zo",
+  "SunVal": "Zondag",
+  "MonVal": "Maandag",
+  "ConsoleVal": "Console",
+  "FileVal": "Bestand",
+  "DefaultMon": true
+}

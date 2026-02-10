@@ -1,0 +1,19 @@
+{
+  "Title": "=== NASTAVITVE KOLEDARJA ===",
+  "YearLabel": "Koledar za:",
+  "WeekDayLabel": "Prvi dan tedna:",
+  "OutputLabel": "Izhod v:",
+  "CountryLabel": "Država, Jezik:",
+  "GoLabel": "Začni:",
+  "HelpMsg": "[←/→] Spremeni | [Enter] Začni | [q] Izhod",
+  "SuccessMsg": "\nUSPEH! Shranjeno v calendar.txt\n",
+  "ErrorMsg": "\nNAPAKA! Ni uspelo shraniti v calendar.txt: %v\n",
+  "Months": ["Januar", "Februar", "Marec", "April", "Maj", "Junij", "Julij", "Avgust", "September", "Oktober", "November", "December"],
+  "HeaderSun": "Ne Po To Sr Če Pe So",
+  "HeaderMon": "Po To Sr Če Pe So Ne",
+  "SunVal": "Nedelja",
+  "MonVal": "Ponedeljek",
+  "ConsoleVal": "Konzola",
+  "FileVal": "Datoteka",
+  "DefaultMon": true
+}

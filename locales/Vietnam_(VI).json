@@ -1,0 +1,19 @@
+{
+  "Title": "=== CÀI ĐẶT LỊCH ===",
+  "YearLabel": "Lịch năm:",
+  "WeekDayLabel": "Ngày đầu tuần:",
+  "OutputLabel": "Đầu ra:",
+  "CountryLabel": "Quốc gia, Ngôn ngữ:",
+  "GoLabel": "Chạy:",
+  "HelpMsg": "[←/→] Thay đổi | [Enter] Chạy | [q] Thoát",
+  "SuccessMsg": "\nTHÀNH CÔNG! Đã lưu vào calendar.txt\n",
+  "ErrorMsg": "\nLỖI! Không thể lưu vào calendar.txt: %v\n",
+  "Months": ["Tháng 1", "Tháng 2", "Tháng 3", "Tháng 4", "Tháng 5", "Tháng 6", "Tháng 7", "Tháng 8", "Tháng 9", "Tháng 10", "Tháng 11", "Tháng 12"],
+  "HeaderSun": "CN T2 T3 T4 T5 T6 T7",
+  "HeaderMon": "T2 T3 T4 T5 T6 T7 CN",
+  "SunVal": "Chủ Nhật",
+  "MonVal": "Thứ Hai",
+  "ConsoleVal": "Bảng điều khiển",
+  "FileVal": "Tệp",
+  "DefaultMon": true
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "=== DAGATALS STILLINGAR ===",
+  "YearLabel": "Dagatal fyrir:",
+  "WeekDayLabel": "Fyrsti dagur vikunnar:",
+  "OutputLabel": "Úttak til:",
+  "CountryLabel": "Land, Tungumál:",
+  "GoLabel": "Byrja:",
+  "HelpMsg": "[←/→] Breyta | [Enter] Byrja | [q] Hætta",
+  "SuccessMsg": "\nHEPPNAST! Vistað í calendar.txt\n",
+  "ErrorMsg": "\nVILLA! Gat ekki vistað í calendar.txt: %v\n",
+  "Months": ["Janúar", "Febrúar", "Mars", "Apríl", "Maí", "Júní", "Júlí", "Ágúst", "September", "Október", "Nóvember", "Desember"],
+  "HeaderSun": "Su Mó Þr Fö Fö La Su",
+  "HeaderMon": "Mó Þr Fö Fö La Su Su",
+  "SunVal": "Sunnudagur",
+  "MonVal": "Mánudagur",
+  "ConsoleVal": "Skjár",
+  "FileVal": "Skrá",
+  "DefaultMon": true
+}

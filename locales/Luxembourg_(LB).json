@@ -1,0 +1,19 @@
+{
+  "Title": "=== KALENDER-ASTELLUNGEN ===",
+  "YearLabel": "Kalender fir:",
+  "WeekDayLabel": "Éischte Dag vun der Woch:",
+  "OutputLabel": "Ausgang op:",
+  "CountryLabel": "Land, Sprooch:",
+  "GoLabel": "Start:",
+  "HelpMsg": "[←/→] Änneren | [Enter] Start | [q] Enn",
+  "SuccessMsg": "\nERFOLLEG! Gespeichert an calendar.txt\n",
+  "ErrorMsg": "\nFEELER! Konnt net späicheren an calendar.txt: %v\n",
+  "Months": ["Januar", "Februar", "Mäerz", "Abrëll", "Mee", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+  "HeaderSun": "So Mo Di Mi Do Fr Sa",
+  "HeaderMon": "Mo Di Mi Do Fr Sa So",
+  "SunVal": "Sonndeg",
+  "MonVal": "Méindeg",
+  "ConsoleVal": "Konsole",
+  "FileVal": "Fichier",
+  "DefaultMon": true
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "=== TƏQVİM AYARLARI ===",
+  "YearLabel": "İl:",
+  "WeekDayLabel": "Həftənin ilk günü:",
+  "OutputLabel": "Çıxış:",
+  "CountryLabel": "Ölkə, Dil:",
+  "GoLabel": "Başlat:",
+  "HelpMsg": "[←/→] Dəyiş | [Enter] Başlat | [q] Çıxış",
+  "SuccessMsg": "\nUĞURLU! calendar.txt faylına saxlanıldı\n",
+  "ErrorMsg": "\nXƏTA! calendar.txt faylına saxlanılmadı: %v\n",
+  "Months": ["Yanvar", "Fevral", "Mart", "Aprel", "May", "İyun", "İyul", "Avqust", "Sentyabr", "Oktyabr", "Noyabr", "Dekabr"],
+  "HeaderSun": "Ba Ba Er Çə Cü Cü Şə",
+  "HeaderMon": "Ba Er Çə Cü Cü Şə Ba",
+  "SunVal": "Bazar",
+  "MonVal": "Bazar ertəsi",
+  "ConsoleVal": "Konsol",
+  "FileVal": "Fayl",
+  "DefaultMon": true
+}

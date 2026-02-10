@@ -1,0 +1,32 @@
+{
+  "Title": "=== KALENDRI SEADED ===",
+  "YearLabel": "Aasta:",
+  "WeekDayLabel": "Nädala esimene päev:",
+  "OutputLabel": "Väljund:",
+  "CountryLabel": "Riik, keel:",
+  "GoLabel": "Käivita:",
+  "HelpMsg": "[←/→] Muuda | [Enter] Käivita | [q] Välju",
+  "SuccessMsg": "\nÕNNESTUS! Salvestatud faili calendar.txt\n",
+  "ErrorMsg": "\nVIGA! Faili calendar.txt salvestamine ebaõnnestus: %v\n",
+  "Months": [
+    "Jaanuar",
+    "Veebruar",
+    "Märts",
+    "Aprill",
+    "Mai",
+    "Juuni",
+    "Juuli",
+    "August",
+    "September",
+    "Oktoober",
+    "November",
+    "Detsember"
+  ],
+  "HeaderSun": "Pu Es Te Ko Ne Re La",
+  "HeaderMon": "Es Te Ko Ne Re La Pu",
+  "SunVal": "Pühapäev",
+  "MonVal": "Esmaspäev",
+  "ConsoleVal": "Konsool",
+  "FileVal": "Fail",
+  "DefaultMon": true
+}
