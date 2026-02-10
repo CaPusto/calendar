@@ -60,7 +60,7 @@ func getLocale(key string) Locale {
 func loadExtraLocales() {
 	entries, err := os.ReadDir("locales")
 	if err != nil {
-		return // папки нет → только встроенные RU/EN
+		return 
 	}
 
 	for _, e := range entries {
@@ -87,3 +87,4 @@ func loadExtraLocales() {
 func init() {
 	loadExtraLocales()
 }
+
