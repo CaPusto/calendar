@@ -140,3 +140,6 @@ MIT License
 * Bubble Tea `github.com/charmbracelet/bubbletea`
 * Lip Gloss `github.com/charmbracelet/lipgloss`
 * Bubbles `github.com/charmbracelet/bubbles`
+
+### P.S.
+I will be glad if the program is useful to someone.
